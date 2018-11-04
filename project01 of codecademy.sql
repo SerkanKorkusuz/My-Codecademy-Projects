@@ -12,7 +12,7 @@ INSERT INTO friends (id, name, birthday)
 VALUES (3, "Johnny Depp", "01.01.1990");
 
 UPDATE friends
-SET name = "Jane Smith" WHERE id = "1";
+SET name = "Jane Smith" WHERE id = 1;
 
 UPDATE friends
 SET birthday = "02.05.1979" WHERE id = 2;
