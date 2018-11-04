@@ -1,2 +1,2 @@
 # My-Codecademy-Projects
-This repo includes my projects of codeademy
+This repo includes my projects of codecademy
