@@ -18,4 +18,4 @@ WHERE campaign LIKE "%-2";
 
 SELECT email FROM users 
 WHERE campaign IS NOT NULL 
-   AND test IS NOT NULL;
+  AND test IS NOT NULL;
